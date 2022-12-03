@@ -1,0 +1,5 @@
+34	Jaipur	Rajasthan
+42	Mumbai	Maharashtra
+65	Patna	Bihar
+42	Pune	Maharashtra
+45	Ranchi	Jharkhand
